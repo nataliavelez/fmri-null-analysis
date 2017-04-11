@@ -1,0 +1,6 @@
+data
+workingdir
+l1output
+crash*
+.DS_Store
+.ipynb_checkpoints/
